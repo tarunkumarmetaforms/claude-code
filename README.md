@@ -1,6 +1,4 @@
-# Claude Code's Entire Source Code Got Leaked via a Sourcemap in npm, Let's Talk About It
 
-> **PS:** This breakdown is also available on [this blog](https://kuber.studio/blog/AI/Claude-Code's-Entire-Source-Code-Got-Leaked-via-a-Sourcemap-in-npm,-Let's-Talk-About-it) with a better reading experience and UX :)
 
 > **Note:** There's a non-zero chance this repo might be taken down. If you want to play around with it later or archive it yourself, feel free to **fork it** and bookmark the external blog link!
 
@@ -16,7 +14,6 @@ Earlier today (March 31st, 2026) - **Chaofan Shou (@Fried_rice)** discovered som
 
 [![The tweet announcing the leak](assets/x-post.png)](https://x.com/Fried_rice/status/2038894956459290963)
 
-This repository is a backup of that leaked source, providing a full breakdown of what's in it, how the leak happened, and the internal systems that were never meant to be public.
 
 ---
 
